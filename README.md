@@ -16,7 +16,7 @@ PCA Torso Derecha  -  Direccion  I2C = 0x40<br>
 
 
 
-PCA Brazo Derecha  -  Direccion  I2C = 0x41<br>
+<br>PCA Brazo Derecha  -  Direccion  I2C = 0x41<br>
   
         |           |   Pin    |   Open  |  Closed  |  Center
   
