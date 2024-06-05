@@ -6,13 +6,13 @@ Mapeo de Pines
 
 PCA Torso Derecha  -  Direccion  I2C = 0x40<br>
   
-      |           |   Pin    |   Open  |  Closed  |  Center<br>
+        |           |   Pin    |   Open  |  Closed  |  Center<br>
  
-  AA  |  Cadera   |    3     |         |          |          <br>
-  AB  |  Alita    |    4     |   100   |   145    |   125    <br>
-  AC  |  Hombro   |    7     |    0    |   270    |   140    <br>
-  AD  |  Tricep   |    8     |    0    |   270    |   140    <br>
-  AF  |  Bicep    |    11    |   80    |   150    |   145    <br>
+    AA  |  Cadera   |    3     |         |          |          <br>
+    AB  |  Alita    |    4     |   100   |   145    |   125    <br>
+    AC  |  Hombro   |    7     |    0    |   270    |   140    <br>
+    AD  |  Tricep   |    8     |    0    |   270    |   140    <br>
+    AF  |  Bicep    |    11    |   80    |   150    |   145    <br>
 
 
 
