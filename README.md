@@ -29,7 +29,7 @@ PCA Torso Derecha  -  Direccion  I2C = 0x40<br>
 
 
 
-PCA Cuello Centro  -  Direccion  I2C = 0x43<br>
+<br>PCA Cuello Centro  -  Direccion  I2C = 0x43<br>
   
         |           |   Pin    |   Open  |  Closed  |  Center
  
@@ -40,7 +40,7 @@ PCA Cuello Centro  -  Direccion  I2C = 0x43<br>
 
 
 
-PCA Torso Izquierda  -  Direccion  I2C = 0x4A<br>
+<br>PCA Torso Izquierda  -  Direccion  I2C = 0x4A<br>
   
         |           |   Pin    |   Open  |  Closed  |  Center
  
@@ -52,7 +52,7 @@ PCA Torso Izquierda  -  Direccion  I2C = 0x4A<br>
 
 
 
-PCA Brazo Izquierda  -  Direccion  I2C = 0x50<br>
+<br>PCA Brazo Izquierda  -  Direccion  I2C = 0x50<br>
   
         |           |   Pin    |   Open  |  Closed  |  Center
   
